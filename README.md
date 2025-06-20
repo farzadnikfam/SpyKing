@@ -11,6 +11,7 @@ The main file is `spyking.py`. To use the code properly, you need to manually in
 
 ```bash
 pip install torch pyfhel norse
+```
 Please make sure your Python version is 3.9 or higher for compatibility with Pyfhel and Norse.
 
 ⚠️ Note: The current version does not include a .yml environment file or requirements.txt. You must install the packages manually as shown above.
