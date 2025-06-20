@@ -3,7 +3,7 @@
 
 This is the source code of **SpyKing**, a framework to compare Spiking Neural Networks (SNNs) and Deep Neural Networks (DNNs) in privacy-preserving settings using Homomorphic Encryption (HE). The aim is to analyze accuracy, latency, and performance of encrypted neural computation in neuromorphic and conventional models.
 
-For more details, refer to the main paper published in *Frontiers in Neuroscience* (2025): [DOI link](https://doi.org/10.3389/fnins.2025.1551143)
+For more details, refer to the main paper published in [*Frontiers in Neuroscience*](https://doi.org/10.3389/fnins.2025.1551143) (2025): DOI - 10.3389/fnins.2025.1551143
 
 ## Requirements and usage
 
