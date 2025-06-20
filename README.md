@@ -22,13 +22,14 @@ To cite this work, please use:
 F. Nikfam, A. Marchisio, M. Martina and M. Shafique, "SpyKing: A Privacy-Preserving Framework for Spiking Neural Networks," in Frontiers in Neuroscience, vol. 19, pp. 1551143, May 2025, doi: 10.3389/fnins.2025.1551143.
 ```
 ```
-@article{spyking2025,
-  author  = {Nikfam, Farzad and Marchisio, Andrea and Martina, Marco and Shafique, Muhammad},
-  title   = {SpyKing: A Privacy-Preserving Framework for Spiking Neural Networks},
-  journal = {Frontiers in Neuroscience},
-  volume  = {19},
-  pages   = {1551143},
-  year    = {2025},
-  doi     = {10.3389/fnins.2025.1551143}
-}
+@ARTICLE{10.3389/fnins.2025.1551143,  
+AUTHOR={Nikfam, Farzad  and Marchisio, Alberto  and Martina, Maurizio  and Shafique, Muhammad },         
+TITLE={SpyKing—Privacy-preserving framework for Spiking Neural Networks},        
+JOURNAL={Frontiers in Neuroscience},        
+VOLUME={Volume 19 - 2025},
+YEAR={2025},
+URL={https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1551143},
+DOI={10.3389/fnins.2025.1551143},
+ISSN={1662-453X},
+ABSTRACT={Artificial intelligence (AI) models, frequently built using deep neural networks (DNNs), have become integral to many aspects of modern life. However, the vast amount of data they process is not always secure, posing potential risks to privacy and safety. Fully Homomorphic Encryption (FHE) enables computations on encrypted data while preserving its confidentiality, making it a promising approach for privacy-preserving AI. This study evaluates the performance of FHE when applied to DNNs and compares it with Spiking Neural Networks (SNNs), which more closely resemble biological neurons and, under certain conditions, may achieve superior results. Using the SpyKing framework, we analyze key challenges in encrypted neural computations, particularly the limitations of FHE in handling non-linear operations. To ensure a comprehensive evaluation, we conducted experiments on the MNIST, FashionMNIST, and CIFAR10 datasets while systematically varying encryption parameters to optimize SNN performance. Our results show that FHE significantly increases computational costs but remains viable in terms of accuracy and data security. Furthermore, SNNs achieved up to 35% higher absolute accuracy than DNNs on encrypted data with low values of the plaintext modulus t. These findings highlight the potential of SNNs in privacy-preserving AI and underscore the growing need for secure yet efficient neural computing solutions.}}
 ```
